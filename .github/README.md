@@ -1,14 +1,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/fbd55ee956abef2a74e15.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐑𝐀𝐉𝐍𝐈𝐒𝐇+𝐗𝐃+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/c8feb585b6b277f9242c6.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡+𝐗𝐃+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
+</p>
 
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=🦋+𝗔𝗩𝗔+𝗧𝗛𝗘+𝗥𝗢𝗕𝗢𝗧🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=🦋+𝙰𝙼𝙾𝚄𝚁 🥀💘+𝗧𝗛𝗘+𝗥𝗢𝗕𝗢𝗧🖤+🥀"></b></h1>
 
-<p align="center"><a href="https://t.me/Ava_The_Robot"><img src="https://telegra.ph/file/6a58ec930e5c45d78464d.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/amour _The_Robot"><img src="https://telegra.ph/file/68d55e597debaae56a720.jpg" width="600"></a></p>
 
 
-
-#  𝗔𝗩𝗔
+#  𝙰𝙼𝙾𝚄𝚁 🥀💘
  
                             𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦
 
@@ -24,7 +27,7 @@
 - <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ </b>
 </h3></summary>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/doraemon890/AvaRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/chalcogen645/amour"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 </details>
@@ -40,7 +43,7 @@
 - <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ </b>
 </h3></summary>
 
-<p align="center"><a href="https://railway.app/new/template=https://github.com/doraemon890/AvaRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Railway-black?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template=https://github.com/chalcogen645/amour"> <img src="https://img.shields.io/badge/Deploy%20On%20Railway-black?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
 
 
 </details>
@@ -116,20 +119,19 @@ DATABASE_URL =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ https://customer.elephantsql.com/lo
 MONGO_DB_URI =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ mongodb.com
 TOKEN =  ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ. ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFather
 OWNER_USERNAME =  ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇ @
-OWNER_ID =  sᴛᴀʀᴛ @Ava_Robot & ᴛʏᴘᴇ /id 
+OWNER_ID =  sᴛᴀʀᴛ @Amour_Robot & ᴛʏᴘᴇ /id 
 ```
 </details>
 ━━━━━━━━━━━━━━━━━━━━
 
-#  𝗔𝗩𝗔
+#  𝙰𝙼𝙾𝚄𝚁 🥀💘
  
                                  𝗠𝗘𝗘𝗧 𝗠𝗘 𝗛𝗘𝗥𝗘
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajnish_mishra____) 
-[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/JARVIS_V_SUPPORT) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23F05033.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hackerdoraemon2@gmail.com) 
-[![YouTube](https://img.shields.io/badge/Youtube-%23DD0031.svg?logo=Youtube&logoColor=white)](https://youtube.com/@rajnisha3) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chalcogem645) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/penguin_x_support) [![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/penguin_x_chat)
+
 
                                                          
 <h3 align="center">
@@ -143,4 +145,3 @@ OWNER_ID =  sᴛᴀʀᴛ @Ava_Robot & ᴛʏᴘᴇ /id
 
 
 ➥ [𝐏ᴀᴜʟsᴏɴᴏғʟᴀʀs] × <a href="https://github.com/PaulSonOfLars/tgbot" alt="PaulSonOfLars"> <img src="https://img.shields.io/badge/PaulSonOfLars-90302f?logo=github" /></a>  
-━━━━━━━━━━━━━━━━━━━━
