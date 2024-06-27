@@ -7,7 +7,7 @@ from telethon import __version__ as s
 
 from Ava import Jarvis as pbot
 
-REPOIMG = "https://telegra.ph/file/94a4d5d7f7b2892e3bdbe.jpg"
+REPOIMG = "https://telegra.ph/file/68d55e597debaae56a720.jpg"
 
 
 @pbot.on_cmd("repo")
@@ -16,7 +16,7 @@ async def repo(_, message):
         photo=REPOIMG,
         caption=f"""✨ **ʜᴇʏ {message.from_user.mention},**
 
-**ᴏᴡɴᴇʀ  : [ᴏᴡɴᴇʀ](https://t.me/JARVIS_V2)**
+**ᴏᴡɴᴇʀ  : [ᴏᴡɴᴇʀ](https://t.me/chalcogenxd)**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀꜱɪᴏɴ :** `{o}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{s}`
@@ -26,10 +26,10 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•ᴍᴜꜱɪᴄ•", url="https://github.com/doraemon890/ANNIE-X-MUSIC"
+                        "•ᴍᴜꜱɪᴄ•", url="https://github.com/chalcogen645/PENGUIN-X-MUSIC"
                     ),
                     InlineKeyboardButton(
-                        "•ʀᴏʙᴏ•", url="https://github.com/doraemon890/AvaRobot"
+                        "•ʀᴏʙᴏ•", url="https://github.com/chalcogen645/Amour"
                     ),
                 ]
             ]
