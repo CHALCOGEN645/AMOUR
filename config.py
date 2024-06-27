@@ -13,7 +13,7 @@ class Config(object):
     ARQ_API_KEY = "TBPYLF-SIOYFX-JALTSV-QEAMXE-ARQ"
     SPAMWATCH_API = "t9HHtrsmy7faPQWloX8xCvdZK~puDP2RnHLpb~qijQqDj94mhcMQdDP_xO0a_Iwe"
     TOKEN = getenv("TOKEN")
-    OWNER_ID = int(getenv("OWNER_ID", 6536914119)
+    OWNER_ID = int(getenv("OWNER_ID", 6536914119))
     OWNER_USERNAME = getenv("OWNER_USERNAME", "chalcogenxd")
     SUPPORT_CHAT = getenv("SUPPORT_CHAT", "penguin_x_support")
     LOGGER_ID = int(getenv("LOGGER_ID", "-1002041048920"))
