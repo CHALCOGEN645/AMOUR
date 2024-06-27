@@ -392,7 +392,7 @@ def get_help(update: Update, context: CallbackContext):
             help_buttons.append(
                 [
                     InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="help_back"),
-                    InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", callback_data="Jarvis_support"),
+                    InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", callback_data="penguin_x_support"),
                 ]
             )
             send_help(
@@ -581,7 +581,7 @@ def send_startup_message():
         try:
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
-                photo="https://telegra.ph/file/a945ba381327b4e7e45d3.jpg",
+                photo="https://telegra.ph/file/68d55e597debaae56a720.jpg",
                 caption=f"""
 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✨ .....
 
