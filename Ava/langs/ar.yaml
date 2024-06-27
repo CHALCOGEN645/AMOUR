@@ -1,5 +1,5 @@
 language: "عربي"
-authors: "@JARVIS_V2"
+authors: "@chalcogenxd"
 
 curr_chat_lang: "مرحباً. لغتك الحالية هي {}، اختر واحدة من الأزرار أدناه:"
 set_chat_lang: "رائع، سيتم تغيير اللغة إلى {} من الآن فصاعداً!"
@@ -177,8 +177,8 @@ fsub_help: |
    •➥ عند التمكين، سأقوم بكتم الأعضاء غير المشتركين وأظهر لهم زر إلغاء الكتم. عندما يضغطون على الزر، سأقوم بإلغاء الكتم.
 
    •➥ *الإعداد*
-   •➥ [أضفني إلى مجموعتك كمسؤول](https://t.me/Ava_The_Robot?startgroup=new)
-   •➥ [أضفني إلى قناتك كمسؤول](https://t.me/Ava_The_Robot?startgroup=new)
+   •➥ [أضفني إلى مجموعتك كمسؤول](https://t.me/Amour_The_Robot?startgroup=new)
+   •➥ [أضفني إلى قناتك كمسؤول](https://t.me/amour_The_Robot?startgroup=new)
 
     *الأوامر*
    •➥ /fsub معرف القناة - لتفعيل وإعداد القناة.
