@@ -27,7 +27,7 @@ from telethon.sessions import MemorySession, StringSession
 StartTime = time.time()
 
 def get_user_list(__init__, key):
-    with open(f"{os.getcwd()}/Amour/{__init__}", "r") as json_file:
+    with open(f"{os.getcwd()}/Ava/{__init__}", "r") as json_file:
         return json.load(json_file)[key]
 
 # enable logging
