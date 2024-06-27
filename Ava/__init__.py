@@ -27,11 +27,11 @@ from telethon.sessions import MemorySession, StringSession
 StartTime = time.time()
 
 def get_user_list(__init__, key):
-    with open(f"{os.getcwd()}/Ava/{__init__}", "r") as json_file:
+    with open(f"{os.getcwd()}/Amour/{__init__}", "r") as json_file:
         return json.load(json_file)[key]
 
 # enable logging
-FORMAT = "[ᴀᴠᴀ] %(message)s"
+FORMAT = "[𝙰𝙼𝙾𝚄𝚁] %(message)s"
 logging.basicConfig(
     handlers=[logging.FileHandler("log.txt"), logging.StreamHandler()],
     level=logging.INFO,
@@ -43,8 +43,8 @@ logging.getLogger("telethon").setLevel(logging.ERROR)
 logging.getLogger("pyrogram").setLevel(logging.ERROR)
 logging.getLogger("pymongo").setLevel(logging.ERROR)
 
-LOGGER = logging.getLogger("[ᴀᴠᴀ]")
-LOGGER.info("ᴀᴠᴀʀᴏʙᴏᴛ ɪs sᴛᴀʀᴛɪɴɢ. ")
+LOGGER = logging.getLogger("[𝙰𝙼𝙾𝚄𝚁]")
+LOGGER.info("𝙰𝙼𝙾𝚄𝚁ʀᴏʙᴏᴛ ɪs sᴛᴀʀᴛɪɴɢ. ")
 
 try:
     if environ.get("ENV"):
@@ -101,7 +101,7 @@ WORKERS = 8
 ALLOW_EXCL = True
 TEMP_DOWNLOAD_DIRECTORY = "./Downloads"
 REM_BG_API_KEY = "LSdLgCceYz8vNqFgJVzrkDgR"
-SPAMWATCH_SUPPORT_CHAT = "Dora_Hub"
+SPAMWATCH_SUPPORT_CHAT = "https://t.me/+UFYcQJKqRLA2MWVk"
 SPAMWATCH_API = Config.SPAMWATCH_API
 ALLOW_CHATS = True
 ARQ_API_URL = "http://arq.hamker.in"
@@ -127,7 +127,7 @@ else:
 from Ava.modules.sql import SESSION
 
 telegraph = Telegraph()
-telegraph.create_account(short_name="Ava")
+telegraph.create_account(short_name="Amour")
 
 defaults = tg.Defaults(run_async=True)
 
