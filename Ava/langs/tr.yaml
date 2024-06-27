@@ -2,7 +2,7 @@
 language: "Türkçe"
 
 # ɴᴀᴍᴇ ᴏғ ᴘᴇᴏᴘʟᴇ(s) ᴡʜᴏ ᴡᴏʀᴋᴇᴅ ᴏɴ ᴛʜɪs ᴛʀᴀɴsʟᴀᴛɪᴏɴ
-authors: "@JARVIS_V2"
+authors: "@chalcogenxd"
 
 # ʟᴀɴɢᴜᴀɢᴇs
 curr_chat_lang: "Merhaba. Mevcut diliniz {}, aşağıdaki düğmelerden istediğinizi seçin:"
@@ -166,8 +166,8 @@ fsub_help: |
     •➥ Etkinleştirildiğinde, abone olmayan üyeleri susturur ve onlara bir sessizlik düğmesi gösterir. Düğmeye bastıklarında, onları susturur.
 
     •➥ *Kurulum:*
-    •➥ [Beni yönetici olarak grubunuza ekleyin](https://t.me/Ava_The_Robot?startgroup=new)
-    •➥ [Beni kanalınıza yönetici olarak ekleyin](https://t.me/Ava_The_Robot?startgroup=new)
+    •➥ [Beni yönetici olarak grubunuza ekleyin](https://t.me/Amour_The_Robot?startgroup=new)
+    •➥ [Beni kanalınıza yönetici olarak ekleyin](https://t.me/Amour_The_Robot?startgroup=new)
  
     *Komutlar:*
     •➥ /fsub kanal kullanıcı adı - Zorunlu aboneliği açar ve kanalı ayarlar.
