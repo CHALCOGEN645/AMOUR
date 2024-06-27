@@ -232,7 +232,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
 
             elif new_mem.id == bot.id:
                 update.effective_message.reply_text(
-                    f"ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ! ᴊᴏɪɴ @{Dora_Hub} ꜰᴏʀ ꜱᴜᴘᴘᴏʀᴛ.",
+                    f"ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ! ᴊᴏɪɴ @{penguin_x_support} ꜰᴏʀ ꜱᴜᴘᴘᴏʀᴛ.",
                     reply_to_message_id=reply,
                 )
                 continue
