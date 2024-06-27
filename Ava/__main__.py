@@ -40,8 +40,8 @@ PM_START_TEX = """
 ʜᴇʟʟᴏ `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . . 
 """
 
-START_IMG = "https://telegra.ph/file/551c987ff6964e408defb.jpg"
-HELP_IMG = "https://telegra.ph/file/e8170cda7390946b750f7.jpg"
+START_IMG = "https://telegra.ph/file/68d55e597debaae56a720.jpg"
+HELP_IMG = "https://telegra.ph/file/68d55e597debaae56a720.jpg"
 
 buttons = [
     [
@@ -52,7 +52,7 @@ buttons = [
         InlineKeyboardButton(text="🥀 sᴛᴀᴛs 🥀", callback_data="stats_callback"),
     ],
     [
-        InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="Jarvis_"),
+        InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="penguin_x_chat"),
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
