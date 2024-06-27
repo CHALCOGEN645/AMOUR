@@ -1,13 +1,13 @@
 {
-  "name": "ᴀᴠᴀʀᴏʙᴏᴛ",
+  "name": "𝙰𝙼𝙾𝚄𝚁ʀᴏʙᴏᴛ",
   "description": "Telegram Group Management Bot Written In Python Using python-telegram-bot.",
-  "repository": "https://github.com/doraemon890/AvaRobot",
-  "logo": "https://telegra.ph/file/61296490da95c55a1d5ee.jpg",
+  "repository": "https://github.com/chalcogen645/AMOUR",
+  "logo": "https://telegra.ph/file/68d55e597debaae56a720.jpg",
   "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AvaRobot",
+    "AmourRobot",
     "telegram-bot",
     "management",
     "ptb",
@@ -49,12 +49,12 @@
     "DEV_USERS": {
       "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
       "required": true,
-      "value": "7044783841"
+      "value": "6536914119"
     },
     "OWNER_USERNAME": {
       "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
       "required": true,
-      "value": "JARVIS_V2"
+      "value": "chalcogenxd"
     },
     "LOGGER_ID": {
       "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
