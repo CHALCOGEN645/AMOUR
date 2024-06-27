@@ -38,7 +38,7 @@ async def wallpaper(_, msg):
     try:
         await Jarvis.send_chat_action(msg.chat.id, enums.ChatAction.UPLOAD_PHOTO)
         await msg.reply_photo(
-            preview, caption=f"🔎 ᴛɪᴛʟᴇ - {title}\nᴊᴏɪɴ [Support](t.me/Dora_Hub)"
+            preview, caption=f"🔎 ᴛɪᴛʟᴇ - {title}\nᴊᴏɪɴ [Support](t.me/penguin_x_support)"
         )
     except Exception as error:
         await msg.reply_text(f"ᴀɴ ᴇʀʀᴏʀ ᴏᴄᴄᴜʀᴇᴅ.\n {error}")
