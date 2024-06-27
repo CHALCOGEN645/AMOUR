@@ -37,7 +37,7 @@ async def is_register_admin(chat, user):
 
 
 @register(pattern="^/unbanall$")
-@register(pattern="^/unbanall@Ava_The_Robot$")
+@register(pattern="^/unbanall@Amour_The_Robot$")
 async def _(event):
     chat = await event.get_chat()
     admin = chat.admin_rights.ban_users
@@ -93,7 +93,7 @@ async def _(event):
     await event.reply(required_string.format(p))
 
 
-@register(pattern="^/unmuteall@Ava_The_Robot$")
+@register(pattern="^/unmuteall@Amour_The_Robot$")
 @register(pattern="^/unmuteall$")
 async def _(event):
     if event.is_private:
